@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1773420526997,
+      "username": "maneesh_talks",
+      "password": "123456"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1773420570136,
+      "userId": 1773420526997,
+      "content": "hey guys! welcome to my instagram page",
+      "likes": [
+        1773420526997
+      ]
+    },
+    {
+      "id": 1773422066306,
+      "userId": 1773420526997,
+      "content": "went on a trip to masai mara recently. had a great time",
+      "likes": [
+        1773420526997
+      ]
+    },
+    {
+      "id": 1773422428791,
+      "userId": 1773420526997,
+      "content": "comment foe full budget details of my trip to masai mara",
+      "likes": [
+        1773420526997
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "id": 1773420596310,
+      "postId": 1773420570136,
+      "userId": 1773420526997,
+      "text": "hello! all the best"
+    },
+    {
+      "id": 1773420639961,
+      "postId": 1773420570136,
+      "userId": 1773420526997,
+      "text": "hii...good to see u here"
+    },
+    {
+      "id": 1773422023592,
+      "postId": 1773420570136,
+      "userId": 1773420526997,
+      "text": "hey maneesh! love your content!"
+    },
+    {
+      "id": 1773422352508,
+      "postId": 1773420570136,
+      "userId": 1773420526997,
+      "text": "hello!"
+    },
+    {
+      "id": 1773422395486,
+      "postId": 1773422066306,
+      "userId": 1773420526997,
+      "text": "woww! thats my dream place!"
+    },
+    {
+      "id": 1773422461943,
+      "postId": 1773422428791,
+      "userId": 1773420526997,
+      "text": "would love to know about that!"
+    }
+  ],
+  "followers": []
+}
