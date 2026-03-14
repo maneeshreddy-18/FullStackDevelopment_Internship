@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1773509881585,
+      "username": "maneesh",
+      "password": "123456"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1773509938935,
+      "name": "Ecommerce",
+      "ownerId": 1773509881585
+    },
+    {
+      "id": 1773511673084,
+      "name": "mini socialmedia app",
+      "ownerId": 1773509881585
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1773509982506,
+      "projectId": "1773509938935",
+      "title": "creating frontend",
+      "assignedTo": 1773509881585,
+      "status": "Completed"
+    },
+    {
+      "id": 1773510014214,
+      "projectId": "1773509938935",
+      "title": "creating frontend",
+      "assignedTo": 1773509881585,
+      "status": "In Progress"
+    },
+    {
+      "id": 1773511816408,
+      "projectId": "1773509938935",
+      "title": "database",
+      "assignedTo": 1773509881585,
+      "status": "Completed"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1773511892063,
+      "taskId": 1773509982506,
+      "userId": 1773509881585,
+      "text": "created login,register page"
+    },
+    {
+      "id": 1773512108388,
+      "taskId": 1773510014214,
+      "userId": 1773509881585,
+      "text": "working on cart page"
+    },
+    {
+      "id": 1773512428190,
+      "taskId": 1773509982506,
+      "userId": 1773509881585,
+      "text": "working on it"
+    }
+  ]
+}
